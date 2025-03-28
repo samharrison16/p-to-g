@@ -12,7 +12,10 @@
     "SaveLocalCopy": true,
     "IncludeTimeInHRZones": false,
     "IncludeTimeInPowerZones": false,
-    "DeviceInfoPath": "./deviceInfo.xml"
+    "StackedWorkouts": {
+      "AutomaticallyStackWorkouts": false,
+      "MaxAllowedGapSeconds": 300
+    }
   },
 
   "Peloton": {
